@@ -1,0 +1,28 @@
+REPORTE DE EFICIENCIA ENERGETICA Y MEMORIA
+==================================================
+Dispositivo: ESP32
+Muestras: 100
+Timestamp: 824057262
+
+ENERGIA
+------------------------------
+active_time_ms: 28000
+sleep_time_ms: 99000
+avg_power_mw: 0.046990
+active_energy_mah: 0.000369
+sleep_energy_mah: 0.000138
+total_energy_mah: 0.000507
+
+MEMORIA
+------------------------------
+final: {'allocated': 25792, 'free': 140800, 'percent_used': 15.482137, 'total': 166592}
+data_size: 14064
+initial: {'allocated': 11728, 'free': 154864, 'percent_used': 7.0399532, 'total': 166592}
+
+ESTADISTICAS
+------------------------------
+failed_samples: 0
+total_time: 127
+valid_samples: 100
+avg_sample_time: 0.280000
+

@@ -1,0 +1,28 @@
+REPORTE DE EFICIENCIA ENERGETICA Y MEMORIA
+==================================================
+Dispositivo: PICO
+Muestras: 100
+Timestamp: 1770713615
+
+ENERGIA
+------------------------------
+sleep_time_ms: 99000
+active_energy_mah: 0.000148
+total_energy_mah: 0.000192
+active_time_ms: 28000
+sleep_energy_mah: 0.000044
+avg_power_mw: 0.017776
+
+MEMORIA
+------------------------------
+initial: {'allocated': 14848, 'free': 231040, 'percent_used': 6.038522, 'total': 245888}
+final: {'allocated': 28800, 'free': 217088, 'percent_used': 11.712649, 'total': 245888}
+data_size: 13952
+
+ESTADISTICAS
+------------------------------
+failed_samples: 0
+total_time: 127
+valid_samples: 100
+avg_sample_time: 0.280000
+
